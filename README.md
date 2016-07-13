@@ -9,6 +9,7 @@ API credential are required in client_secret.json, see [Google Docs](https://dev
 
 
 `npm install`
+
 `node quickstart.js`
 
 * If starting for the first time, follow the the link and copy/paste the code back into the terminal
